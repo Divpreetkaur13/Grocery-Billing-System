@@ -1,0 +1,16 @@
+Tea,80.0,18
+Biscuit,30.0,40
+Toothbrush,20.0,30
+Toothpaste,50.0,40
+Bodywash,120.0,20
+shampoo,100.0,30
+Rice,120.0,50
+Wheat flour,130.0,40
+Sugar,80.0,50
+Pulses,70.0,78
+Mangoes,50.0,100
+Pomegranate,60.0,76
+Apples,50.0,80
+Avocado,200.0,90
+Maggie,70.0,60
+Coffee,60.0,40
